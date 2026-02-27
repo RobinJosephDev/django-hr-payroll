@@ -170,4 +170,4 @@ JWT authentication is configured using Simple JWT.
 ## 👨‍💻 Author
 
 Your Name\
-GitHub: https://github.com/your-username
+GitHub: https://github.com/RobinJosephDev
